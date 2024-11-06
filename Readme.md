@@ -2,7 +2,7 @@
 
 <h2> # Desafío de Alura Latam en el marco de Programa One de Oracle.<h2>
 
-<h3>Sistema que genera un número aleatorio, puede ser adivinado en varios intentos,
+<h3>Este Sistema genera un número aleatorio, puede ser adivinado en varios intentos,
  muestra mensajes de ayuda para acercarse al número secreto y un aviso cuando han      finalizado las opciones, por último, puedes reiniciarlo si deseas seguir jugando.</h3>
 
 
