@@ -1,0 +1,16 @@
+<h1> # Juego del número secreto<h1>
+
+<h2> # Desafío de Alura Latam en el marco de Programa One de Oracle.<h2>
+
+<h3>Sistema que genera un número aleatorio que puede ser adivinado en varios intentos,
+ muestra mensajes de ayuda para acercarse al número secreto y cuando han finalizado las opciones, por último, puede reiniciarlo si deseas seguir jugando.</h3>
+
+
+
+El desafío consistió en practicar sobre la app que se desarrollo durante el curso de Lògica de programación: funciones y listas. Realizar los ejercicios propuestos, crear un repositorio del proyecto y realizar su publicación en Github Pages.
+
+Generando la siguiente URL donde está el juego disponible para el público:
+
+- Tecnologias utilizadas: html, css y javascript.
+  
+- Estado del proyecto: Finalizado.
