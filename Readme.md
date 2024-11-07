@@ -7,9 +7,7 @@
 
 
 
-El desafío consistió en practicar sobre la app que se desarrolló durante el curso de Lògica de programación: funciones y listas. Realizar los ejercicios propuestos, crear un repositorio del proyecto y realizar su publicación en Github Pages.
-
-Generando la siguiente URL donde está el juego disponible para el público:
+El desafío consistió en practicar sobre la app que se desarrolló durante el curso de Lògica de programación: funciones y listas. Realizar los ejercicios propuestos, crear un repositorio del proyecto. 
 
 - Tecnologias utilizadas: html, css y javascript.
   
